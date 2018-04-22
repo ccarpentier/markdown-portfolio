@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+* A
+* B
+  * C
+  * D
+  
+1. A
+2. B
+  1. C
+  2. D
+  
+:sparkles:
